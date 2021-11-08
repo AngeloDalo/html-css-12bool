@@ -1,9 +1,6 @@
 .container {
     width: 100%;
-}
-
-.row {
-    height: 60px;
+    margin: 0 auto;
 }
 
 [class *="col-xs"] {
