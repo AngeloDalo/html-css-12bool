@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+}
+
+.row {
+    height: 60px;
+}
+
+[class *="col-xs"] {
+    border: 1px solid white;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    line-height: 60px;
+}
+
+.row div .row div {
+    background-color: greenyellow;
+    text-align: center;
+    border: 10px solid blue;
+}
+
+.secondo-blocco {
+    margin-top: 5em;
+}
