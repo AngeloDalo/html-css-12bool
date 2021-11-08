@@ -27,3 +27,27 @@
 .terzo-blocco {
     margin-top: 5em;
 }
+
+.quarto-blocco {
+    margin-top: 5em;
+}
+
+.quinto-blocco {
+    margin-top: 5em;
+}
+
+.grande {
+    height: 120px;
+}
+
+.piccolo {
+    height: 60px;
+}
+
+.centro {
+    align-items: center;
+}
+
+.sotto {
+    align-items: flex-end;
+}
