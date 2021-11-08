@@ -36,6 +36,10 @@
     margin-top: 5em;
 }
 
+.sesto-blocco {
+    margin-top: 5em;
+}
+
 .grande {
     height: 120px;
 }
@@ -50,4 +54,12 @@
 
 .sotto {
     align-items: flex-end;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.space-between {
+    justify-content: space-between;
 }
